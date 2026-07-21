@@ -1,0 +1,6 @@
+*.exe
+*.test
+*.out
+/basic/basic
+/houserule/houserule
+/nplayer/nplayer
